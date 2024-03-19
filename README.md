@@ -1,6 +1,6 @@
 # ExpNo 1 :Developing AI Agent with PEAS Description
-### Name: Saravanan N
-### Register Number/Staff Id: TSML006
+### Name: Yogabharathi S
+### Register Number:212222230179
 
 
 ## AIM:
